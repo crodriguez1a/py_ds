@@ -14,3 +14,12 @@ Books:
 Videos:
 - [RitvikMath: "Data Science for All"](https://www.youtube.com/c/ritvikmath)
 - [NancyPi: Calc, Linear Algebra](https://www.youtube.com/c/NancyPi/)
+
+Data:
+- [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+- [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+- [US Census Bureau](http://www.census.gov/): Provides access to a variety of census products through a live API and downloadable files.
+- [IEEE VAST challenge datasets](http://vacommunity.org/VAST+Challenge)
+- [OECD Data](https://data.oecd.org/): Economics-related data by the Organization for Economic Cooperation and Development
+- [World Bank Catalog](http://data.worldbank.org/data-catalog)
+- [30 places to find open data on the web](http://www.scribblelive.com/blog/2012/03/30/data-sources/)
